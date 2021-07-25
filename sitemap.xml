@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.inlakes.cn/archives/4b3510a4.html</loc>
+    <loc>http://www.inlakes.cn/4b3510a4.html</loc>
     
     <lastmod>2021-07-25</lastmod>
     
@@ -23,7 +23,7 @@
   </url>
   
   <url>
-    <loc>http://www.inlakes.cn/archives/4a17b156.html</loc>
+    <loc>http://www.inlakes.cn/4a17b156.html</loc>
     
     <lastmod>2021-07-25</lastmod>
     
@@ -65,13 +65,6 @@
   </url>
   
   <url>
-    <loc>http://www.inlakes.cn/categories/index.html</loc>
-    
-    <lastmod>2021-07-25</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://www.inlakes.cn/about/index.html</loc>
     
     <lastmod>2021-07-25</lastmod>
@@ -80,6 +73,13 @@
   
   <url>
     <loc>http://www.inlakes.cn/archives/index.html</loc>
+    
+    <lastmod>2021-07-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.inlakes.cn/categories/index.html</loc>
     
     <lastmod>2021-07-25</lastmod>
     
