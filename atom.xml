@@ -3,11 +3,11 @@
   <title>InLakes</title>
   
   <subtitle>InLakes</subtitle>
-  <link href="http://www.luckyzmj.cn/atom.xml" rel="self"/>
+  <link href="http://www.inlakes.cn/atom.xml" rel="self"/>
   
-  <link href="http://www.luckyzmj.cn/"/>
+  <link href="http://www.inlakes.cn/"/>
   <updated>2021-07-25T02:37:46.997Z</updated>
-  <id>http://www.luckyzmj.cn/</id>
+  <id>http://www.inlakes.cn/</id>
   
   <author>
     <name>InLakes</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://www.luckyzmj.cn/posts/4a17b156.html"/>
-    <id>http://www.luckyzmj.cn/posts/4a17b156.html</id>
+    <link href="http://www.inlakes.cn/archives/4a17b156.html"/>
+    <id>http://www.inlakes.cn/archives/4a17b156.html</id>
     <published>2021-07-25T02:08:58.850Z</published>
     <updated>2021-07-25T02:37:46.997Z</updated>
     
@@ -38,8 +38,8 @@
   
   <entry>
     <title>文字背景粒子特效</title>
-    <link href="http://www.luckyzmj.cn/posts/4b3510a4.html"/>
-    <id>http://www.luckyzmj.cn/posts/4b3510a4.html</id>
+    <link href="http://www.inlakes.cn/archives/4b3510a4.html"/>
+    <id>http://www.inlakes.cn/archives/4b3510a4.html</id>
     <published>2020-03-26T16:00:00.000Z</published>
     <updated>2021-07-25T10:04:46.388Z</updated>
     
@@ -53,12 +53,12 @@
     
     
     
-    <category term="前端篇" scheme="http://www.luckyzmj.cn/categories/%E5%89%8D%E7%AB%AF%E7%AF%87/"/>
+    <category term="前端篇" scheme="http://www.inlakes.cn/categories/%E5%89%8D%E7%AB%AF%E7%AF%87/"/>
     
     
-    <category term="jQuery+CSS3" scheme="http://www.luckyzmj.cn/tags/jQuery-CSS3/"/>
+    <category term="jQuery+CSS3" scheme="http://www.inlakes.cn/tags/jQuery-CSS3/"/>
     
-    <category term="粒子特效" scheme="http://www.luckyzmj.cn/tags/%E7%B2%92%E5%AD%90%E7%89%B9%E6%95%88/"/>
+    <category term="粒子特效" scheme="http://www.inlakes.cn/tags/%E7%B2%92%E5%AD%90%E7%89%B9%E6%95%88/"/>
     
   </entry>
   
