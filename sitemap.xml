@@ -58,13 +58,6 @@
   </url>
   
   <url>
-    <loc>http://www.inlakes.cn/categories/</loc>
-    
-    <lastmod>2021-07-25</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://www.inlakes.cn/baidu_verify_xxxxxxx</loc>
     
     <lastmod>2021-07-25</lastmod>
@@ -86,7 +79,7 @@
   </url>
   
   <url>
-    <loc>http://www.inlakes.cn/List/movies/</loc>
+    <loc>http://www.inlakes.cn/categories/</loc>
     
     <lastmod>2021-07-25</lastmod>
     
@@ -94,6 +87,13 @@
   
   <url>
     <loc>http://www.inlakes.cn/List/music/</loc>
+    
+    <lastmod>2021-07-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.inlakes.cn/List/movies/</loc>
     
     <lastmod>2021-07-25</lastmod>
     
