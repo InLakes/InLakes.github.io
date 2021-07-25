@@ -527,16 +527,16 @@
 	</div>  
     <script>
         var uvChart=echarts.init(document.getElementById('uv-container'),'shine');
-        var option={color:['#d223e7','#3F77FE','#01C2F9','#18D070'],title:{text:'站点访客数统计',subtext:'数据来源: 百度统计（自 2020/01/01 开始统计）',textStyle:{color:'#504b4d',}},tooltip:{trigger:'axis'},
-        legend:{data:['2020年访客数','2021年访客数'],bottom:0,left:'center',textStyle:{color:'#504b4d',}},//修改年份
+        var option={color:['#d223e7','#3F77FE','#01C2F9','#18D070'],title:{text:'站点访客数统计',subtext:'数据来源: 百度统计（自 2021/07/01 开始统计）',textStyle:{color:'#504b4d',}},tooltip:{trigger:'axis'},
+        legend:{data:['2021年访客数','2022年访客数'],bottom:0,left:'center',textStyle:{color:'#504b4d',}},//修改年份
         toolbox:{show:true,feature:{mark:{show:true},magicType:{show:true,type:['line','bar','stack','tiled']},restore:{show:true},saveAsImage:{show:true}}},
         calculable:true,xAxis:[{type:'category',boundaryGap:false,data:['一月','二月','三月','四月','五月','六月','七月','八月','九月','十月','十一月','十二月'],
         axisLabel:{formatter:'{value}',textStyle:{color:'#929298'}}}],yAxis:[{type:'value',axisLabel:{formatter:'{value}',textStyle:{color:'#929298'}}}],
-        series:[{name:'2020年访客数',type:'line',smooth:true,itemStyle:{normal:{areaStyle:{type:'default'}}},
-        data:[788,2225,3145,2522,2798,2442,4028,3556,2835,2331,2423,1124],//第一个年份对应的数据顺序对应月份
+        series:[{name:'2021年访客数',type:'line',smooth:true,itemStyle:{normal:{areaStyle:{type:'default'}}},
+        data:[0,0,0,0,0,0,0,35,null,null,null,null],//第一个年份对应的数据顺序对应月份
         axisLabel:{formatter:'{value}',textStyle:{color:'#929298'}},},
-        {name:'2021年访客数',type:'line',smooth:true,itemStyle:{normal:{areaStyle:{type:'default'}}},
-        data:[2152,1656,2836,4606,null,null,null,null,null,null,null,null],//第二个年份对应的数据顺序对应月份
+        {name:'2022年访客数',type:'line',smooth:true,itemStyle:{normal:{areaStyle:{type:'default'}}},
+        data:[null,null,null,null,null,null,null,null,null,null,null,null],//第二个年份对应的数据顺序对应月份
         axisLabel:{formatter:'{value}',textStyle:{color:'#929298'}},}]};
         uvChart.setOption(option);var pvChart=echarts.init(document.getElementById('pv-container'));
         var pv_option={color:['#01C2F9','#18D070','#d223e7','#3F77FE'],
@@ -561,7 +561,7 @@
         data:[{value:4067,name:'直接访问',selected:true},{value:423,name:'外链'},{value:4327,name:'搜索'}]},//大类数据，修改value后面的值
         {name:'访问来源',type:'pie',radius:['40%','55%'],
         label:{formatter:'{a|{a}}{abg|}\n{hr|}\n  {b|{b}：}{c}  {per|{d}%}  ',backgroundColor:'#eee',borderColor:'#aaa',borderWidth:1,borderRadius:4,rich:{a:{color:'#999',lineHeight:22,align:'center'},hr:{borderColor:'#aaa',width:'100%',borderWidth:0.5,height:0},b:{fontSize:16,lineHeight:33},per:{color:'#eee',backgroundColor:'#334455',padding:[2,4],borderRadius:2}}},
-        data:[{value:2965,name:'直达'},{value:423,name:'外链'},{value:4072,name:'百度'},{value:187,name:'Google'},{value:35,name:'Bing'}]}]};//各个来源数据，修改value后面的值
+        data:[{value:35,name:'直达'},{value:0,name:'外链'},{value:0,name:'百度'},{value:0,name:'Google'},{value:0,name:'Bing'}]}]};//各个来源数据，修改value后面的值
         referChart.setOption(refer_option);
         </script
 </main>
