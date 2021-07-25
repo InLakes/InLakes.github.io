@@ -548,8 +548,8 @@
         restore:{show:true},saveAsImage:{show:true}}},calculable:true,
         xAxis:[{type:'category',boundaryGap:false,data:['一月','二月','三月','四月','五月','六月','七月','八月','九月','十月','十一月','十二月'],
         axisLabel:{formatter:'{value}',textStyle:{color:'#929298'}}}],yAxis:[{type:'value',axisLabel:{formatter:'{value}',textStyle:{color:'#929298'}}}],
-        series:[{name:'2020年访问量',type:'line',stack:'总量',data:[1101,2909,3784,2978,3090,2682,5207,4887,4436,3047,3262,2474],axisLabel:{formatter:'{value}',//第一个年份对应的数据顺序对应月份
-        textStyle:{color:'#929298'}}},{name:'2021年访问量',type:'line',stack:'总量',data:[6648,3882,5580,8817,null,null,null,null,null,null,null,null],//第二个年份对应的数据顺序对应月份
+        series:[{name:'2020年访问量',type:'line',stack:'总量',data:[0,0,0,0,0,0,0,35,null,null,null,null],axisLabel:{formatter:'{value}',//第一个年份对应的数据顺序对应月份
+        textStyle:{color:'#929298'}}},{name:'2021年访问量',type:'line',stack:'总量',data:[null,null,null,null,null,null,null,null,null,null,null,null],//第二个年份对应的数据顺序对应月份
         axisLabel:{formatter:'{value}',textStyle:{color:'#929298'}}}]};
         pvChart.setOption(pv_option);
         var referChart=echarts.init(document.getElementById('refer-container'));
