@@ -86,13 +86,6 @@
   </url>
   
   <url>
-    <loc>http://www.inlakes.cn/List/music/</loc>
-    
-    <lastmod>2021-07-25</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://www.inlakes.cn/List/movies/</loc>
     
     <lastmod>2021-07-25</lastmod>
@@ -101,6 +94,13 @@
   
   <url>
     <loc>http://www.inlakes.cn/List/tools/</loc>
+    
+    <lastmod>2021-07-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.inlakes.cn/List/music/</loc>
     
     <lastmod>2021-07-25</lastmod>
     
@@ -130,7 +130,7 @@
 
   <url>
     <loc>http://www.inlakes.cn/</loc>
-    <lastmod>2021-07-25</lastmod>
+    <lastmod>2021-07-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -138,14 +138,14 @@
   
   <url>
     <loc>http://www.inlakes.cn/tags/jQuery-CSS3/</loc>
-    <lastmod>2021-07-25</lastmod>
+    <lastmod>2021-07-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://www.inlakes.cn/tags/%E7%B2%92%E5%AD%90%E7%89%B9%E6%95%88/</loc>
-    <lastmod>2021-07-25</lastmod>
+    <lastmod>2021-07-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -154,7 +154,7 @@
   
   <url>
     <loc>http://www.inlakes.cn/categories/%E5%89%8D%E7%AB%AF%E7%AF%87/</loc>
-    <lastmod>2021-07-25</lastmod>
+    <lastmod>2021-07-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
